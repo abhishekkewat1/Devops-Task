@@ -42,3 +42,6 @@ This deployment process includes:
 7. **Creating a Supervisor configuration** to keep the Node.js application running and restart it if it crashes.
 8. **Installing Nginx** and configuring it as a reverse proxy for your Node.js application.
 9. **Starting Supervisor and Nginx services** and ensuring they are enabled on boot.
+
+
+****************Make sure to udpate public IP in hosts***************
